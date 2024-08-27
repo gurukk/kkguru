@@ -1,0 +1,27 @@
+2024-08-27 14:51:09 INFO  SCRIPT EXECUTION HAS BEEN STARTED
+2024-08-27 14:51:09 INFO  LMS_Admin_WorkFlows_For_DashBoard_And_Browser workflows execution has been started
+2024-08-27 14:51:09 INFO  HTML Report Teamplate has been created
+2024-08-27 14:51:09 INFO  Logs Teamplate has been created
+2024-08-27 14:51:21 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 7    Method: Page_Load
+2024-08-27 14:51:28 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 8    Method: Verify_Page_Title_Equals
+2024-08-27 14:51:29 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 9    Method: Button_Click
+2024-08-27 14:51:29 INFO  Button is visible
+2024-08-27 14:51:29 INFO  Button Name: Login
+2024-08-27 14:51:29 INFO  Button is enabled
+2024-08-27 14:51:30 INFO  Button clicked successfully
+2024-08-27 14:51:30 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 10    Method: Verify_Page_Title_Contains
+2024-08-27 14:51:35 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 11    Method: Verify_Page_Title_Equals
+2024-08-27 14:51:35 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 12    Method: Verify_Is_TextBox_Visible
+2024-08-27 14:51:35 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 13    Method: Verify_Is_TextBox_Enabled
+2024-08-27 14:51:35 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 14    Method: Enter_Value_In_TextBox
+2024-08-27 14:51:35 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 15    Method: Verify_Is_TextBox_Visible
+2024-08-27 14:51:35 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 16    Method: Verify_Is_TextBox_Enabled
+2024-08-27 14:51:36 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 17    Method: Enter_Value_In_TextBox
+2024-08-27 14:51:36 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 18    Method: Verify_Is_Button_Enabled
+2024-08-27 14:51:36 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 19    Method: Verify_Button_Name_Contains
+2024-08-27 14:51:36 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 20    Method: Button_Click
+2024-08-27 14:51:36 INFO  Button is visible
+2024-08-27 14:51:36 INFO  Button Name:  Submit
+2024-08-27 14:51:36 INFO  Button is enabled
+2024-08-27 14:51:45 INFO  Button clicked successfully
+2024-08-27 14:51:45 INFO  Workflow: SM_N_RE_COU_ENRL_SEAR  Row Number: 21    Method: Verify_Page_Title_Equals
